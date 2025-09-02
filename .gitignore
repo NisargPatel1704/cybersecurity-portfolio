@@ -1,0 +1,22 @@
+#Python Virtual Environments
+#Ignore all venv folders, no matter where they are.
+**/venv/
+
+#Byte-compiled / optimized / DLL files
+#pycache/
+*.py[cod]
+*$py.class
+
+#OS-specific files
+.DS_Store
+Thumbs.db
+
+#IDE / Editor folders
+.vscode/
+.idea/
+
+#Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
