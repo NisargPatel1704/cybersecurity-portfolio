@@ -19,7 +19,6 @@ Each project is self-contained and includes detailed documentation.
 ---
 
 ## 📫 Contact Me
-- **Email**: nisargp1903@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile URL Here]
-
+- **Email**: nisargp24880@gmail.com
+- 
 Please feel free to explore each project folder for detailed documentation and source code.
